@@ -5,7 +5,7 @@
 
     <!--  TAGS / Open Tag / Close TAG / Content: Inside the tag -->
 
-    <section> Content! </section>  <!-- The section here is an ELEMENT with content-->
+    <section> Content!! </section>  <!-- The section here is an ELEMENT with content-->
     
     <section></section>           <!-- This is the section ELEMENT with no content-->
     <section />                   <!-- an ELEMENT with no content can also be declared like this -->
