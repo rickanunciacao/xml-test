@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- encoding for character set / standalone for data type definition (external) -->
+<?xml-stylesheet type='text/css' href='style.css'?>
+
+<document>
+
+    <!--  TAGS / Open Tag / Close TAG / Content: Inside the tag -->
+
+    <section> Content! </section>  <!-- The section here is an ELEMENT with content-->
+    
+    <section></section>           <!-- This is the section ELEMENT with no content-->
+    <section />                   <!-- an ELEMENT with no content can also be declared like this -->
+
+    <section> Content&#33; </section>  <!-- &#33; here, uses the escapecharacter & and a code to identify the exclamation !!! These are called ENTITIES-->
+
+
+    <![CDATA[ 
+    
+    <section> Content! </section> <!-- Anything inside CDATA will not be interpreted (parsed). It will be considered as regular character -->
+    
+    
+    ]]>
+
+
+</document>
+
+
