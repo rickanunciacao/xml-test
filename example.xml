@@ -1,0 +1,13 @@
+<ASSESSMENTS>
+    <STUDENT name="Henrique Anunciacao">
+        <MARK theCourse="ASR">000/100</MARK>
+        <MARK theCourse="DSA">000/100</MARK>
+        <MARK theCourse="IWA">000/100</MARK>
+        <MARK theCourse="ATP">000/100</MARK>
+        <MARK theCourse="ADB">000/100</MARK>
+        <MARK theCourse="LAB">000/100</MARK>
+    </STUDENT>
+    <COURSE name="BSC IT" takenBy="Greg South">
+        <MARK>000/100</MARK>
+    </COURSE>
+</ASSESSMENTS>
